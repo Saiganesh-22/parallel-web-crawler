@@ -1,0 +1,13 @@
+{
+  "startPages": [
+    "https://example.com"
+  ],
+  "ignoredUrls": [],
+  "ignoredWords": [],
+  "parallelism": 4,
+  "maxDepth": 2,
+  "timeoutSeconds": 10,
+  "popularWordCount": 3,
+  "profileOutputPath": "",
+  "resultPath": ""
+}
